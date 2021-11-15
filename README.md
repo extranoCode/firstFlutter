@@ -1,6 +1,6 @@
-# flutterfirst
+# GROUP 14 CAPSTONE PROJECT
 
-A new Flutter project.
+Group 14 Log IN UI project.
 
 ## Getting Started
 
